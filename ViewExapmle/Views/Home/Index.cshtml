@@ -5,7 +5,7 @@
             {
                 name = "John",
                 DateOfBirth =
-            Convert.ToDateTime(2000 - 07 - 01)
+            Convert.ToDateTime("2000 - 07 - 01")
             };
 }
 <!DOCTYPE html>
@@ -18,7 +18,8 @@
     <h1>Welcome</h1>
     <h2>Hello @person.name</h2> 
     @{
-        Math.Round((DateTime.Now - person.DateOfBirth).TotalDays / 365.25);
+       double age = Math.Round((DateTime.Now - person.DateOfBirth).TotalDays / 365.25);
     }
+    <h3>@age years old</h3>
     </body>
 </html>

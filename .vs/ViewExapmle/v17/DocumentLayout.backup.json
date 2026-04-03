@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{79FA39C9-84DD-474E-8295-EBCD03838871}|ViewExapmle\\ViewExapmle.csproj|solutionrelative:viewexapmle\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79FA39C9-84DD-474E-8295-EBCD03838871}|ViewExapmle\\ViewExapmle.csproj|c:\\users\\working\\source\\repos\\viewexapmle\\viewexapmle\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79FA39C9-84DD-474E-8295-EBCD03838871}|ViewExapmle\\ViewExapmle.csproj|solutionrelative:viewexapmle\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{79FA39C9-84DD-474E-8295-EBCD03838871}|ViewExapmle\\ViewExapmle.csproj|c:\\users\\working\\source\\repos\\viewexapmle\\viewexapmle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79FA39C9-84DD-474E-8295-EBCD03838871}|ViewExapmle\\ViewExapmle.csproj|solutionrelative:viewexapmle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FA39C9-84DD-474E-8295-EBCD03838871}|ViewExapmle\\ViewExapmle.csproj|c:\\users\\working\\source\\repos\\viewexapmle\\viewexapmle\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FA39C9-84DD-474E-8295-EBCD03838871}|ViewExapmle\\ViewExapmle.csproj|solutionrelative:viewexapmle\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FA39C9-84DD-474E-8295-EBCD03838871}|ViewExapmle\\ViewExapmle.csproj|c:\\users\\working\\source\\repos\\viewexapmle\\viewexapmle\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FA39C9-84DD-474E-8295-EBCD03838871}|ViewExapmle\\ViewExapmle.csproj|solutionrelative:viewexapmle\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,31 +30,29 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\ViewExapmle\\ViewExapmle\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ViewExapmle\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Working\\source\\repos\\ViewExapmle\\ViewExapmle\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ViewExapmle\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T10:15:10.199Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\ViewExapmle\\ViewExapmle\\Program.cs",
               "RelativeDocumentMoniker": "ViewExapmle\\Program.cs",
               "ToolTip": "C:\\Users\\Working\\source\\repos\\ViewExapmle\\ViewExapmle\\Program.cs",
               "RelativeToolTip": "ViewExapmle\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T10:12:20.304Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -60,11 +62,23 @@
               "RelativeDocumentMoniker": "ViewExapmle\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Working\\source\\repos\\ViewExapmle\\ViewExapmle\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ViewExapmle\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-25T10:22:05.969Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\ViewExapmle\\ViewExapmle\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ViewExapmle\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Working\\source\\repos\\ViewExapmle\\ViewExapmle\\Models\\Person.cs",
+              "RelativeToolTip": "ViewExapmle\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:38:58.245Z"
             }
           ]
         }
